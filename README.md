@@ -1,2 +1,2 @@
 # Test
-This reository is a place for testing
+This repository is a place for testing
